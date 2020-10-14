@@ -915,8 +915,8 @@
                 "symbol": ":/symbols/vmware_guest.svg",
                 "template_id": "a739f50b-5dc2-46b5-a65a-9309d80e78ae",
                 "width": 65,
-                "x": -413,
-                "y": 328,
+                "x": -409,
+                "y": 319,
                 "z": 1
             },
             {
@@ -1002,8 +1002,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 83,
-                "y": 307,
+                "x": 88,
+                "y": 314,
                 "z": 1
             }
         ]
